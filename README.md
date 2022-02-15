@@ -1,2 +1,0 @@
-# dmitriburov
-Begin app
